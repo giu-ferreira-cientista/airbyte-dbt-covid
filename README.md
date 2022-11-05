@@ -15,3 +15,9 @@ Tarefas:
 - Cria o modelo relacionado
 
 - Testa a execucao completa
+
+- Cria a pull request
+
+- Faz o Merge com a main
+
+- Pega o link de conexao com o Airbyte no Github
